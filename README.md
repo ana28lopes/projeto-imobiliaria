@@ -12,6 +12,7 @@ Este é um trabalho apresentado à disciplina de Laboratório de Engenharia de S
 - **HTML**: Linguagem de marcação para a estrutura das páginas.
 - **CSS**: Estilos visuais para a interface do site.
 - **JavaScript**: Para validação de formulários e interatividade.
+- **WampServer**: Para criar um ambiente de desenvolvimento local para aplicações web.
 
 ## Funcionalidades
 - **Cadastro de Imóveis**: Permite que os locadores cadastrem imóveis com informações como tipo do imóvel (casa ou apartamento), valor do aluguel, localização, descrição e etc.
