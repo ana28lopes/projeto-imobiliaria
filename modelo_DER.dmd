@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo_DER" id="80A0BD99-6D38-9A0E-9D91-94C5BEA710F1" version="3.5">
-<createdBy>Ana Clara</createdBy>
-<createdTime>2025-01-20 21:02:41 UTC</createdTime>
-<ownerDesignName>modelo_DER</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>80A0BD99-6D38-9A0E-9D91-94C5BEA710F1</designId>
-</OSDM_Design>
