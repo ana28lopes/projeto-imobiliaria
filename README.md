@@ -55,7 +55,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 2. **Clone este repositório**:
     ```bash
-    git clone https://github.com/ana28lopes/imobiliaria.git
+    git clone https://github.com/ana28lopes/projeto-imobiliaria.git
     ```
 
 3. **Configure o Banco de Dados**:
